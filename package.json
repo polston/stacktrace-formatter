@@ -2,7 +2,7 @@
     "name": "stacktrace-formatter",
     "displayName": "stacktrace-formatter",
     "description": "what it says on the tin",
-    "version": "1.4.0",
+    "version": "1.5.0",
     "publisher": "polston",
     "engines": {
         "vscode": "^1.25.0"
