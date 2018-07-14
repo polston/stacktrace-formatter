@@ -2,8 +2,6 @@
 import * as vscode from 'vscode';
 
 export function activate(context: vscode.ExtensionContext) {
-
-    console.log('Congratulations, your extension "stacktrace-formatter" is now active!');
     let disposable = vscode.commands.registerCommand('extension.formatStacktrace', () => {
       const { activeTextEditor } = vscode.window
   
@@ -30,4 +28,5 @@ export function activate(context: vscode.ExtensionContext) {
 }
 
 export function deactivate() {
+  console.log('it should be formatted, if not submit a pull request');
 }
