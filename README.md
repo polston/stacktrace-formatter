@@ -1,5 +1,8 @@
 # stacktrace-formatter README
 
+it's available in the vscode market place just type in stacktrace-formatter and you'll probably find it
+[alternatively go here](https://marketplace.visualstudio.com/items?itemName=polston.stacktrace-formatter)
+
 ## Features
 
 what it says on the tin
